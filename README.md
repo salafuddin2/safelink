@@ -1,0 +1,2 @@
+# safelink
+for misterseroja.com
